@@ -23,3 +23,5 @@
 geonames_index/nodes/0/indices/EbTOUhqQRI6LOYb3hXRlHg/0/index/segments_u
 *.qgz
 geonames_index/nodes/0/indices/EbTOUhqQRI6LOYb3hXRlHg/0/index/segments_v
+*.pgw
+*.gz
