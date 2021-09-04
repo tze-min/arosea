@@ -2,6 +2,8 @@
 
 Repository of scripts written for AROSEA's projects.
 
-## mordecai-geoparser-on-windows
+## disaster-visualisation
 
-Geoparsed locations of disaster record data into long-lat coordinates, to be plotted on a map. Input and output data included.
+Includes
+* EDA of input disaster records downloaded from EM-DAT (Region = Asia, Year = 2000 to 2021)
+* Geoparsed locations of disaster record data into long-lat coordinates, to be plotted on a map. Input and output data included.
