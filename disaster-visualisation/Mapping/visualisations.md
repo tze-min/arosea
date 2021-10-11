@@ -7,7 +7,7 @@ the GIF below shows the disaster hotspots. It is meant to be a broad glance sort
 
 ![alt-text](https://drive.google.com/uc?export=view&id=1lW5YGFQteRskFcvPbTlGXRupN_uqndnw)
 
-<a href="https://drive.google.com/uc?export=view&id=1lW5YGFQteRskFcvPbTlGXRupN_uqndnw"><img src="https://drive.google.com/uc?export=view&id=1lW5YGFQteRskFcvPbTlGXRupN_uqndnw" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1lW5YGFQteRskFcvPbTlGXRupN_uqndnw"><img src="https://drive.google.com/uc?export=view&id=1lW5YGFQteRskFcvPbTlGXRupN_uqndnw" style="width: 300px; max-width: 50%; height: auto" title="Click to enlarge picture" />
 
 
 the GIF below shows the disaster hotspots weighted by total affected.
