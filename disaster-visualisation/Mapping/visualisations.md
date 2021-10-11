@@ -2,13 +2,13 @@ Working visualisations
 (currently work in progress). Data is uploaded in github. Coordinates are mostly correct (except for a few errant ones here and there. Errors will be rectified when spotted and data updated whenever there are changes.
 colours/presentation can be changed, do let me know if there is a certain point that you want to make. below are just some simple samples.
 
-##1. all disasters
+## 1. all disasters
 the GIF below shows the disaster hotspots. It is meant to be a broad glance sort of thing.
 
 the GIF below shows the disaster hotspots weighted by total affected.
 
 
-##2. earthquakes
+## 2. earthquakes
 there's something wrong with this visualisation that is bothering me. it shows the top earthquakes by total people affected and also all earthquakes by richter scale.
 ![image](https://drive.google.com/uc?id=1MjnJeZ9byUz1GqwiKO3JK_9VcHotjEFp)
 
@@ -20,7 +20,7 @@ for consideration:
 alternative earthquake images/presentations
 before i settled with what you see above i also tried some other visualisations
 
-##3.. floods and storms (aka water related stuff)
+## 3.. floods and storms (aka water related stuff)
 i visualised these together. this is not a flood and storm event visualisation but one where total affected is accounter for (weighted by total affected)
 I can do one which is only event (not weighted by number of people affected). I suspect the indonesia/philippines area will pop up more in that case
 
