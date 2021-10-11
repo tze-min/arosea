@@ -10,6 +10,7 @@ the GIF below shows the disaster hotspots weighted by total affected.
 
 ## 2. earthquakes
 there's something wrong with this visualisation that is bothering me. it shows the top earthquakes by total people affected and also all earthquakes by richter scale.
+
 ![image](https://drive.google.com/uc?id=1MjnJeZ9byUz1GqwiKO3JK_9VcHotjEFp)
 
 for consideration:
