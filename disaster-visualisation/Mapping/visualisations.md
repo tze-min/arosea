@@ -7,7 +7,7 @@ the GIF below shows the disaster hotspots. It is meant to be a broad glance sort
 
 ![](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
 
-![](https://drive.google.com/14j89grYSqNNQG9kRjkZz8_eG-fVk5Rj8)
+![](https://drive.google.com/uc?id=14j89grYSqNNQG9kRjkZz8_eG-fVk5Rj8)
 
 the GIF below shows the disaster hotspots weighted by total affected.
 
