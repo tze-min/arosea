@@ -1,7 +1,7 @@
 
 
 # The following visualisations were generated with https://flourish.studio/
-![](https://drive.google.com/file/d/1YbPl7tWZlRCKHJHKzRCb4kHBWXjnDGlY/view?usp=sharing)
+![](https://drive.google.com/uc?export=view&id=1YbPl7tWZlRCKHJHKzRCb4kHBWXjnDGlY)
 
 ## for later visualisations 
 to consider as visualisation for how $$ flies around
