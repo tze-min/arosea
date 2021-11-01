@@ -1,7 +1,7 @@
 
 
 # The following visualisations were generated with https://flourish.studio/
-![barchart race](https://drive.google.com/file/d/1YbPl7tWZlRCKHJHKzRCb4kHBWXjnDGlY/view?usp=sharing)
+[barchart race](https://drive.google.com/file/d/1YbPl7tWZlRCKHJHKzRCb4kHBWXjnDGlY/view?usp=sharing)
 
 ## for later visualisations 
 to consider as visualisation for how $$ flies around
