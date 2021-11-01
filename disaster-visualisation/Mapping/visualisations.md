@@ -5,7 +5,7 @@ colours/presentation can be changed, do let me know if there is a certain point 
 ## 1. all disasters
 the GIF below shows the disaster hotspots. It is meant to be a broad glance sort of thing.
 
-![image](https://drive.google.com/file/d/1lW5YGFQteRskFcvPbTlGXRupN_uqndnw/view?usp=sharing)
+![Alt Text](https://drive.google.com/file/d/1lW5YGFQteRskFcvPbTlGXRupN_uqndnw/view?usp=sharing)
 
 the GIF below shows the disaster hotspots weighted by total affected.
 
