@@ -2,7 +2,8 @@ The following visualisations were generated with https://flourish.studio/
 
 [barchart race - by country](https://drive.google.com/file/d/1YbPl7tWZlRCKHJHKzRCb4kHBWXjnDGlY/view?usp=sharing)
 
-[disaster line race]
+[![Alt text](https://www.youtube.com/watch?v=JmzNy1TWkfg)
+
 
 ## for later visualisations 
 to consider as visualisation for how $$ flies around
