@@ -5,11 +5,11 @@ colours/presentation can be changed, do let me know if there is a certain point 
 ## 1. all disasters
 the GIF below shows the disaster hotspots. It is meant to be a broad glance sort of thing.
 
-![](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
+![GIF-COUNT-compressed](https://user-images.githubusercontent.com/90077184/139650603-f65454da-6ca6-4c83-836d-e6936b5bbe2a.gif)
 
-![](https://drive.google.com/uc?export=view&id=1lW5YGFQteRskFcvPbTlGXRupN_uqndnw)
 
 the GIF below shows the disaster hotspots weighted by total affected.
+![red-totalaffectedGIF](https://user-images.githubusercontent.com/90077184/139650498-4d6715e0-18d7-4c81-b188-58878eb80a5b.gif)
 
 
 ## 2. earthquakes
@@ -25,9 +25,15 @@ for consideration:
 alternative earthquake images/presentations
 before i settled with what you see above i also tried some other visualisations
 
+![earthquake V1](https://user-images.githubusercontent.com/90077184/139650748-9bc569c1-3db3-4c93-92a8-095389c12dae.jpg)![earthquake v4](https://user-images.githubusercontent.com/90077184/139650754-56987f11-ea4f-4586-a5f8-6a2c586b2017.jpg)
+
+
+
 ## 3.. floods and storms (aka water related stuff)
 i visualised these together. this is not a flood and storm event visualisation but one where total affected is accounter for (weighted by total affected)
 I can do one which is only event (not weighted by number of people affected). I suspect the indonesia/philippines area will pop up more in that case
+![floods and storms total affected weighted compressed](https://user-images.githubusercontent.com/90077184/139651418-ebdab4d7-f512-498a-9280-da2b0959c6ea.gif)
 
+on hindsight i should have added the legend for the gifs 
 
 also if anyone is more familiar with premier pro / adobe animate can add stuff like that to add the "top" affecting floods. i have the programmes but limtied experience so will be v slow cos have to figure out still
