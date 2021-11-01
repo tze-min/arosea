@@ -8,7 +8,7 @@ the GIF below shows the disaster hotspots. It is meant to be a broad glance sort
 ![GIF-COUNT-compressed](https://user-images.githubusercontent.com/90077184/139650603-f65454da-6ca6-4c83-836d-e6936b5bbe2a.gif)
 
 
-the GIF below shows the disaster hotspots weighted by total affected.
+the GIF below shows the disaster hotspots weighted by total affected.Compared to the general disaster hotspots, lesser stuff are highlighted because the disasters with higher number of total affected becomes more obvious
 ![red-totalaffectedGIF](https://user-images.githubusercontent.com/90077184/139650498-4d6715e0-18d7-4c81-b188-58878eb80a5b.gif)
 
 
